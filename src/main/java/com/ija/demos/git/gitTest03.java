@@ -13,7 +13,7 @@ public class gitTest03 {
     }
 
     public void  method01(){
-        System.out.println("I am from gitTest03:method01()");
+        System.out.println("hello, I am from gitTest03:method01()");
     }
 
 }
