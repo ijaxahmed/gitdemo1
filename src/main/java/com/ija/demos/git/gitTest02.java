@@ -12,7 +12,7 @@ public class gitTest02 {
     }
 
     public void  method01(){
-        System.out.println("I am from gitTest02:method01()");
+        System.out.println("I AM FROM gitTest02:method01()");
     }
 
 }
